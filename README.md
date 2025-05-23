@@ -4,10 +4,10 @@ Este repositorio contiene los trabajos prácticos realizados para la materia **V
 
 ## Estructura del repositorio
 
-- **tp1**  
+- **TP1**  
   Contiene un archivo jupyter con la resolución de los ejercicios.
 
-- **tp2**  
+- **TP2**  
   Contiene un archivo jupyter con la resolución de los ejercicios.
   
 ## Notas adicionales
