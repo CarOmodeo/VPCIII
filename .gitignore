@@ -26,3 +26,9 @@ Thumbs.db
 
 # Archivos PDF
 *.pdf
+
+# Archivo Python
+*.python-version
+
+# CIFAR10
+*data/
