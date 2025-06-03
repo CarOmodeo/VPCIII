@@ -9,7 +9,10 @@ Este repositorio contiene los trabajos prácticos realizados para la materia **V
 
 - **TP2**  
   Contiene un archivo jupyter con la resolución de los ejercicios.
-  
+
+- **TP3**  
+  Contiene un archivo jupyter con la resolución de los ejercicios.
+
 ## Notas adicionales
 
 - Los entornos virtuales y archivos generados automáticamente han sido excluidos mediante `.gitignore`.
